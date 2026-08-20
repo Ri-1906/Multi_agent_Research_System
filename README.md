@@ -62,7 +62,10 @@ Built with [LangChain](https://www.langchain.com/), [Mistral](https://mistral.ai
 
 | Input | Final Report |
 |---|---|
-| ![Research topic input](./assets/screenshot-input.png) | ![Finished report view](./assets/screenshot-report.png) |
+| ![Research topic input]("C:\Users\riddh\Pictures\Screenshots\Screenshot 2026-08-20 171019.png") | ![Finished report view](<img width="946" height="898" alt="Screenshot 2026-08-20 171120" src="https://github.com/user-attachments/assets/68dd21e2-fe5a-411a-966c-e1be28bb81c6" />)
+(<img width="969" height="889" alt="Screenshot 2026-08-20 171131" src="https://github.com/user-attachments/assets/984a666d-dba8-44ac-93b8-172615cbc3f3" />)
+
+) |
 
 <!-- Add more rows/images as needed, e.g. the critic's notes expander or the search/source panels. -->
 
