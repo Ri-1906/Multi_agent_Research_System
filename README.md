@@ -4,6 +4,8 @@ An autonomous research pipeline that takes a topic, searches the web, reads the 
 
 Built with [LangChain](https://www.langchain.com/), [Mistral](https://mistral.ai/), and [Tavily](https://tavily.com/), with both a CLI and a styled Streamlit interface.
 
+🔗 **Live demo:** [your-deployed-url-here.streamlit.app](https://your-deployed-url-here.streamlit.app)
+
 ---
 
 ## ✨ Features
@@ -53,6 +55,16 @@ Built with [LangChain](https://www.langchain.com/), [Mistral](https://mistral.ai
 3. **Write** — `writerChain` combines search results + scraped content into a structured first draft.
 4. **Critique** — `criticChain` reviews the draft and returns a score out of 10 with specific feedback.
 5. **Revise** — `revise_until_good()` loops the writer and critic together: while the score is below 8 and the revision cap hasn't been hit, the report is rewritten based on feedback and re-scored.
+
+---
+
+## 📸 Screenshots
+
+| Input | Final Report |
+|---|---|
+| ![Research topic input](./assets/screenshot-input.png) | ![Finished report view](./assets/screenshot-report.png) |
+
+<!-- Add more rows/images as needed, e.g. the critic's notes expander or the search/source panels. -->
 
 ---
 
