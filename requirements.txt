@@ -1,0 +1,24 @@
+langchain-core
+langchain-openai
+langgraph
+
+# Web search tool
+langchain-tavily
+tavily-python
+
+# Web scraping
+beautifulsoup4
+requests
+
+# OpenAI API
+openai
+google-genai
+mistralai
+# Environment variables / configuration
+python-dotenv
+
+# Data validation and typed agent state
+pydantic
+
+# Optional but useful for HTML parsing
+lxml
