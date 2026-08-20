@@ -99,8 +99,7 @@ Built with [LangChain](https://www.langchain.com/), [Mistral](https://mistral.ai
 2. **Install dependencies:**
 
    ```bash
-   pip install langchain langchain-mistralai langchain-google-genai google-genai \
-               tavily-python beautifulsoup4 requests python-dotenv streamlit
+   uv pip install -r requirements.txt
    ```
 
 3. **Create a `.env` file** in the project root with your API keys:
