@@ -152,11 +152,8 @@ Enter a topic, click **Start research**, and watch the pipeline move through sea
 
 - The reader agent currently scrapes only **one** source per run; extending it to read and merge multiple sources would likely improve report depth.
 - `scrape()` uses a simple `BeautifulSoup` text extraction — it won't handle JavaScript-rendered pages.
-- There are a couple of minor typos in the agent prompts (`"BAsed"`, `"releveant"`) in `pipeline.py` / `ui.py` — cosmetic only, doesn't affect functionality, but worth cleaning up.
 - No persistent storage/history — each run is stateless; consider adding a database or file log if you want to keep past reports.
 
 ---
 
-## 📄 License
 
-Add your preferred license here (e.g. MIT).
