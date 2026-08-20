@@ -60,15 +60,14 @@ Built with [LangChain](https://www.langchain.com/), [Mistral](https://mistral.ai
 
 ## 📸 Screenshots
 
-| Input | Final Report |
-|---|---|
-| ![Research topic input](<img width="1144" height="803" alt="Screenshot 2026-08-20 171019" src="https://github.com/user-attachments/assets/dbce3248-6c4b-4922-95c1-2bafd99d0076" />
-) | ![Finished report view]<img width="946" height="898" alt="Screenshot 2026-08-20 171120" src="https://github.com/user-attachments/assets/68dd21e2-fe5a-411a-966c-e1be28bb81c6" />
+
+(<img width="1144" height="803" alt="Screenshot 2026-08-20 171019" src="https://github.com/user-attachments/assets/dbce3248-6c4b-4922-95c1-2bafd99d0076" />
+<img width="946" height="898" alt="Screenshot 2026-08-20 171120" src="https://github.com/user-attachments/assets/68dd21e2-fe5a-411a-966c-e1be28bb81c6" />
 <img width="969" height="889" alt="Screenshot 2026-08-20 171131" src="https://github.com/user-attachments/assets/984a666d-dba8-44ac-93b8-172615cbc3f3" />
 <img width="717" height="927" alt="Screenshot 2026-08-20 171055" src="https://github.com/user-attachments/assets/2deb2de3-9619-40fa-b9bc-9d78ecd71ae6" />
 
 
-) |
+
 
 <!-- Add more rows/images as needed, e.g. the critic's notes expander or the search/source panels. -->
 
